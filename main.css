@@ -1,0 +1,18 @@
+body {
+  background: #FF8333;
+  font-family: Courier;
+}
+
+h1 {
+  color: #3342FF;
+}
+
+p {
+  background: #999;
+  color: white;
+  padding: 10px 10px 5px 5px;
+}
+
+.s {
+  color: #800;
+}
